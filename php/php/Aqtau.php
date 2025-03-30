@@ -51,7 +51,7 @@ nav ul li a:hover {
 
 /* Main Banner */
 #main-banner {
-    background-image: linear-gradient(rgba(61, 54, 54, 0.658),rgba(0,0,0,0.5)),url(/VSK2/progect/aqt.jpg);
+    background-image: linear-gradient(rgba(61, 54, 54, 0.658),rgba(0,0,0,0.5)),url(/VSK2/progect/php/aqt.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
